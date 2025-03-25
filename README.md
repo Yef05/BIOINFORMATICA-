@@ -39,5 +39,4 @@ Pepito perez | 5.5
 [Google scholar](https://scholar.google.com/citations?user=Oqq-sgcAAAAJ&hl=es)
 
 ### Imagenes 
-
-![Caos](https://i.pinimg.com/originals/e0/19/17/e0191785c29396e42bccc19c6c3db098.jpg)
+![Caos](https://github.com/Yef05/BIOINFORMATICA-/blob/main/salticidae_clustal.treefile.png)
